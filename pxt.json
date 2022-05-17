@@ -1,5 +1,5 @@
 {
-    "name": "呼吸燈",
+    "name": "呼吸燈+跑馬燈",
     "description": "",
     "dependencies": {
         "core": "*",
